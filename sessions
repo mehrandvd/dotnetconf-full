@@ -1,0 +1,666 @@
+Day 1
+November 11
+7:30 PM - 9:00 PM GMT+3:30
+
+Welcome to .NET 10 & Visual Studio 2026!
+
+Allie Barry, Brady Gaster, Cathy Sullivan, David Fowler, Gaurav Seth, Maddy Montaquila, Mike Kistler, Scott Hanselman, Mads Kristensen, Damian Edwards, Safia Abdalla, Rachel Kang, Maria Naggaga Nakanwagi
+
+Join us for an action-packed keynote welcoming the release of .NET 10! Scott Hanselman will kick off the conference with .NET and Visual Studio team members showing you some of the amazing new things you can do with .NET 10, C# 14 and Visual Studio 2026. From language and productivity enhancements, to cloud-native and intelligent app development, see how you can build the best apps with the best version of .NET yet.
+
+November 11
+9:00 PM - 9:30 PM GMT+3:30
+
+What's New in ASP.NET Core
+
+Mike Kistler, Safia Abdalla
+
+Explore the latest enhancements coming to ASP.NET Core in .NET 10! This session covers new features for building modern web applications and APIs, including performance improvements, enhanced OpenAPI support, new authentication capabilities with passkey support, improved validation in minimal APIs, and updates to Blazor. We'll demonstrate how these improvements help you build faster, more secure, and more maintainable web applications. Join us to see how ASP.NET Core continues to be the best framework for building cloud-native web applications with .NET.
+
+November 11
+9:30 PM - 10:00 PM GMT+3:30
+
+What's New in C# 14
+
+Dustin Campbell
+
+Join the C# design team as they reveal the exciting new features coming in C# 14 and beyond. Discover language enhancements that improve code clarity, boost productivity, and enable new programming patterns. Whether you're writing everyday business logic or pushing the boundaries of high-performance code, these new features will help you write better, more expressive C# code. Learn directly from the designers about the thinking behind the new features and how to apply them in your projects.
+
+November 11
+10:00 PM - 10:30 PM GMT+3:30
+
+Performance Improvements in .NET 10
+
+Stephen Toub
+
+.NET 10 is the fastest .NET ever, with hundreds of performance optimizations throughout the runtime, libraries, and compilers. In this deep-dive session, we'll explore the most impactful improvements, from JIT compiler enhancements and garbage collection optimizations to library method improvements that make your code run faster without any changes. Stephen Toub will demonstrate real-world performance gains with benchmarks and explain the techniques used to achieve them. Whether you're building cloud services, desktop apps, or mobile applications, you'll learn how .NET 10 delivers exceptional performance out of the box.
+
+November 11
+10:30 PM - 11:00 PM GMT+3:30
+
+Build better web apps with Blazor in .NET 10
+
+Daniel Roth
+
+Explore the future of web development with Blazor in .NET 10! Learn how Blazor makes it easier to build secure web apps with built-in WebAuthN and passkeys support and scaffolding for adding Entra ID authentication. See how you can more easily monitor your Blazor apps and diagnose issues with improved diagnostics. Discover performance improvements that make your Blazor apps load faster and be more responsive. Finally, learn about new features and improvements that address top pain points in Blazor development, including faster Hot Reload, component state persistence, QuickGrid enhancements, simplified integration testing, and much more!
+
+November 11
+11:00 PM - 11:30 PM GMT+3:30
+
+Aspire: Cloud-Native Development Simplified
+
+Maddy Montaquila, Damian Edwards
+
+Building cloud-native applications shouldn't be complicated. Aspire provides an opinionated framework that simplifies the development of observable, production-ready distributed applications. In this session, discover how Aspire streamlines local development with automatic service discovery, built-in telemetry, and a powerful dashboard for monitoring your applications. Learn how to leverage Aspire's integrations with popular cloud services and databases to build scalable applications faster. Whether you're new to cloud-native development or looking to improve your existing workflows, see why Aspire is transforming how developers build modern distributed applications.
+
+November 11
+11:30 PM - 12:00 AM GMT+3:30
+
+Visual Studio Debugger: Advanced Techniques
+
+Harshada Hole
+
+Master the art of debugging with Visual Studio's most powerful features and hidden gems. This session goes beyond basic breakpoints to explore advanced debugging techniques that will transform how you troubleshoot and understand your code. Learn about conditional breakpoints, tracepoints, data breakpoints, and the new AI-powered debugging insights that help you identify issues faster. Discover time-saving tips for debugging async code, understanding memory issues, and leveraging the watch window and immediate window like a pro. Elevate your debugging skills and become more efficient at solving even the most challenging bugs.
+
+November 12
+12:00 AM - 12:30 AM GMT+3:30
+
+AI-Powered Development with GitHub Copilot in Visual Studio
+
+Rhea Patel, Jui Hanamshet
+
+Transform your development workflow with GitHub Copilot's latest AI-powered features in Visual Studio. Discover how intelligent code suggestions, context-aware completions, and AI-assisted refactoring can dramatically boost your productivity. This session demonstrates advanced Copilot capabilities including slash commands, inline chat for code explanations, test generation, and documentation assistance. Learn best practices for prompting Copilot effectively and integrating AI assistance into your daily development routine. Whether you're new to AI-assisted development or looking to maximize your use of Copilot, you'll leave with practical techniques to write better code faster.
+
+November 12
+12:30 AM - 1:00 AM GMT+3:30
+
+Building Intelligent Apps with .NET
+
+Jeremy Likness
+
+Artificial intelligence is transforming how we build applications, and .NET provides powerful tools to integrate AI capabilities into your solutions. This session guides you through building intelligent applications using .NET's unified AI abstractions, including Microsoft.Extensions.AI. Learn how to integrate large language models, implement semantic search, add intelligent features like summarization and classification, and create AI-powered assistants. We'll demonstrate practical patterns for working with both cloud-hosted and local AI models, showing you how to build applications that are smarter and more responsive to user needs. Start your journey into AI development with .NET.
+
+November 12
+1:00 AM - 1:30 AM GMT+3:30
+
+Understanding Agentic Development
+
+Jeremy Likness
+
+The future of AI development is agentic—systems that can reason, plan, and take action to accomplish complex goals. This session explores what agentic development means for .NET developers and how to build AI agents that go beyond simple prompts and responses. Learn about agent architectures, planning and reasoning patterns, tool calling and function execution, and how agents can collaborate with each other. We'll demonstrate how to leverage frameworks and patterns to build intelligent agents that can break down complex tasks, make decisions, and take actions on behalf of users. Discover how agentic AI will transform the applications you build.
+
+November 12
+1:30 AM - 2:00 AM GMT+3:30
+
+Real-World .NET Profiling with Visual Studio
+
+Nik Karpinsky
+
+Join Nik as he takes you beyond the basics of performance profiling and into the real world of optimizing open source libraries. In this session, you'll learn how to use the Visual Studio Profiler to run CPU and .NET Allocation traces, and how to combine those insights with BenchmarkDotNet and GitHub Copilot to make meaningful performance improvements. Whether you're contributing to open source or just want to sharpen your profiling skills, this talk will give you practical techniques and workflows you can apply immediately.
+
+November 12
+2:00 AM - 2:30 AM GMT+3:30
+
+Model Context Protocol (MCP) for .NET Developers
+
+Mike Kistler, Allie Barry
+
+The Model Context Protocol (MCP) is an emerging standard for connecting AI models with data sources and tools. This session introduces .NET developers to MCP and demonstrates how to integrate it into your applications. Learn how MCP enables AI assistants to access your application's data and functionality in a standardized way, making it easier to build intelligent experiences. We'll cover the MCP architecture, show how to expose resources and tools through MCP, and demonstrate practical integration patterns. Discover how MCP can bridge the gap between your .NET applications and AI systems, enabling richer and more contextual AI interactions.
+
+November 12
+2:30 AM - 3:00 AM GMT+3:30
+
+What's New in .NET MAUI
+
+David Ortinau
+
+.NET MAUI continues to evolve as the premier framework for building native cross-platform applications. This session explores the latest features in .NET MAUI for .NET 10, including enhanced performance optimizations, new controls and layouts, improved tooling experiences in Visual Studio, and expanded platform capabilities. Learn how companies are successfully shipping production applications with .NET MAUI across iOS, Android, macOS, and Windows. Discover new features that make it easier to build beautiful, high-performance applications that feel native on every platform, all while sharing a single codebase. Whether you're building mobile apps, desktop applications, or both, see why .NET MAUI is the future of cross-platform development.
+
+November 12
+3:00 AM - 3:30 AM GMT+3:30
+
+Modern Windows Development with .NET
+
+Michael Hawker, Roy MacLachlan
+
+Windows development is more powerful than ever with .NET. This session explores modern approaches to building Windows desktop applications using the latest tools and frameworks. Discover how WinUI 3, Windows App SDK, and .NET 10 come together to enable you to create beautiful, performant Windows applications that leverage the full capabilities of the Windows platform. Learn about new features for integrating AI, accessing platform capabilities, and delivering native experiences. Whether you're building new Windows apps or modernizing existing ones, see how .NET provides the best development experience for Windows.
+
+November 12
+3:30 AM - 4:00 AM GMT+3:30
+
+.NET Diagnostic Tooling with AI
+
+Jonathan Peppers
+
+Discover how AI is revolutionizing .NET diagnostic tooling. In this session, Jonathan Peppers will showcase the latest advancements in diagnostic tools powered by artificial intelligence, including automated performance analysis, intelligent error detection, and AI-driven debugging workflows. Learn how to leverage these new capabilities to identify issues faster, optimize your applications, and improve developer productivity. Whether you're troubleshooting complex problems or seeking to enhance your diagnostic processes, see how AI is transforming the way .NET developers build and maintain high-quality applications.
+
+November 12
+4:00 AM - 4:30 AM GMT+3:30
+
+What's New in Windows Forms
+
+Merrie McGaw, Klaus Loeffelmann
+
+WinForms continues to thrive with modern enhancements in .NET 10. This session showcases the latest features and improvements that make Windows Forms development better than ever, including modern UI updates, closer adaptation of the Windows 11 design language, and - to support modern APIs around Microsoft AI Extensions, Semantic Kernel, Windows Projection APIs, and.NET 10 base libraries - significant improvements around async and await, particularly with WinForms LOB apps and their modernization in mind. But brace yourselves ... because this won't be your typical conference presentation. Join us for a live demonstration that explores how the new WinForms Expert Agent for GitHub Copilot is changing the way we think about Windows desktop development - while still respecting you wholeheartedly as the Captain. You'll see how AI can provide intelligent guidance while respecting designer constraints and helping navigate the balance between modern code patterns and legacy compatibility. Whether you're maintaining long-lived line-of-business applications or building new Windows desktop tools and Apps - or planning to retrofit your existing apps gradually with Copilot/AI functionality: Discover how Windows Forms provides a productive and reliable path forward. Will AI make mistakes along the way? Absolutely. That's why we still need skilled, experienced WinForms Developers at the helm. Will there be surprising results in this session? Only one way to find out...
+
+November 12
+4:30 AM - 5:30 AM GMT+3:30
+
+Code Party
+
+Come join our Code Party to win awesome prizes!
+
+Day 2
+November 12
+8:30 PM - 9:30 PM GMT+3:30
+
+Azure Keynote: Cloud Innovation with .NET
+
+Scott Hunter, Paul Yuknewicz
+
+Discover how Azure is revolutionizing cloud-native development with .NET. This keynote explores the latest innovations in Azure services designed specifically for .NET developers, including advancements in Azure Container Apps, Azure Kubernetes Service, Azure Functions, and AI services. Learn how to build, deploy, and scale intelligent cloud-native applications that leverage the full power of Azure's platform capabilities. Scott Hunter and Paul Yuknewicz will demonstrate how Azure and .NET 10 work together seamlessly to help you deliver production-ready applications faster, with built-in observability, security, and scalability. See why Azure is the best cloud platform for .NET developers.
+
+November 12
+9:30 PM - 10:00 PM GMT+3:30
+
+Building Remote MCP Servers
+
+Anthony Chu, Lily Ma
+
+The Model Context Protocol (MCP) allows AI assistants to connect with external tools and data. This session introduces how to build remote MCP servers using .NET and Azure, enabling easier sharing, better scalability, and flexible hosting. Whether you're experimenting locally or deploying to the cloud, remote MCP servers open up new possibilities for automation, collaboration, and tool integration.
+
+November 12
+10:00 PM - 10:30 PM GMT+3:30
+
+Build smarter agents with Redis, .NET and Agent Framework
+
+Catherine Wang, Matt Soucoup
+
+We will explore how Redis helps Agentic applications in Azure to be smarter, performant, and collaborative. This session highlights the latest Aspire innovations with Redis, Microsoft Agent Framework, and patterns for using Redis as semantic cache, vector store, chat history, and sessions.
+
+November 12
+10:30 PM - 11:00 PM GMT+3:30
+
+Deep Dive: Extending and Customizing Aspire
+
+David Fowler, Damian Edwards
+
+Aspire is highly extensible, and this session shows you how to customize it for your specific needs. Go beyond the built-in capabilities to learn how to create custom integrations, extend the dashboard with your own visualizations, build custom resource types, and adapt Aspire to work with your organization's infrastructure. We'll explore the extensibility points and demonstrate real-world examples of customization. Whether you need to integrate with proprietary services, add custom telemetry, or extend Aspire's capabilities in unique ways, this deep dive provides the knowledge you need to make Aspire work exactly the way you want.
+
+November 12
+11:00 PM - 11:30 PM GMT+3:30
+
+Aspire Unplugged with David and Maddy
+
+Maddy Montaquila, David Fowler
+
+Join an engaging conversation with David Fowler, the architect behind Aspire, as he shares insights into the vision, design decisions, and future direction of this transformative framework. Learn about the problems Aspire was designed to solve, hear stories from the development process, and get answers to the community's most pressing questions. This informal discussion explores both the technical foundations and the philosophy behind Aspire's approach to simplifying cloud-native development. Whether you're already using Aspire or considering it for future projects, this is a unique opportunity to hear directly from the creator about what makes Aspire special and where it's headed.
+
+November 12
+11:30 PM - 12:00 AM GMT+3:30
+
+Modernizing .NET Applications for the Cloud
+
+Matt Soucoup
+
+Many organizations have valuable .NET applications that need to be modernized for cloud deployment. This session provides a practical roadmap for modernizing existing .NET applications to take advantage of cloud-native architectures and modern development practices. Learn strategies for incrementally updating applications, containerizing legacy workloads, implementing cloud-native patterns, and leveraging Azure services to enhance existing applications. We'll cover tools and techniques that help you assess modernization candidates, plan the migration process, and execute the transformation successfully. Whether you're dealing with .NET Framework applications or older .NET Core versions, discover proven approaches to bring your applications into the modern cloud era.
+
+November 13
+12:00 AM - 12:30 AM GMT+3:30
+
+Simplifying .NET with 'dotnet run file.cs'
+
+Damian Edwards
+
+.NET is becoming more accessible than ever with new features that simplify common development tasks. This session introduces the new `dotnet run file.cs` command that allows you to run C# code files directly without requiring a project file. Learn how this feature enables quick experimentation, simplifies scripting scenarios, and makes .NET more approachable for beginners and scripts. We'll explore use cases including rapid prototyping, educational scenarios, automation scripts, and utility programs. Discover how .NET is removing friction from development workflows and making it easier to use C# for everything from quick one-liners to standalone utilities. See how .NET continues to evolve toward simplicity and developer productivity.
+
+November 13
+12:30 AM - 1:00 AM GMT+3:30
+
+AI Foundry for .NET Developers
+
+Bruno Capuano
+
+Azure AI Foundry provides a comprehensive platform for building, testing, and deploying AI applications. This session introduces .NET developers to AI Foundry and demonstrates how to leverage its capabilities for your AI projects. Learn how to work with AI models, manage prompts and orchestrations, implement evaluation and testing for AI systems, and deploy AI applications to production with confidence. We'll show you how AI Foundry integrates with .NET development workflows and provides tools that make AI development more systematic and reliable. Discover how AI Foundry can accelerate your journey from AI prototype to production-ready intelligent application.
+
+November 13
+1:00 AM - 1:30 AM GMT+3:30
+
+What's new in Azure App Service for .NET developers
+
+Byron Tardif
+
+Azure App Service continues to evolve with new features and enhancements designed specifically for .NET developers. In this session, discover the latest updates to App Service, including improved deployment workflows, enhanced diagnostics and monitoring, support for .NET 10, and new integration capabilities with Azure DevOps and GitHub Actions. Learn best practices for optimizing performance, scaling applications, and securing your web apps in the cloud. Byron Tardif will share tips and demonstrations to help you take full advantage of Azure App Service for your .NET projects, whether you're building web APIs, websites, or microservices.
+
+November 13
+1:30 AM - 2:00 AM GMT+3:30
+
+Best new features in dotnet test, Microsoft.Testing.Platform and MSTest
+
+Jakub Jares
+
+Join me for a practical look at the newest features in dotnet test, Microsoft.Testing.Platform, and MSTest. We’ll cover the new dotnet test mode, tips for running tests efficiently in local and CI environments, and how plugins like Retry can improve reliability. Finally, discover what MSTest brings and how it can simplify your testing workflow.
+
+November 13
+2:00 AM - 2:30 AM GMT+3:30
+
+A Year in .NET Security (2024–2025)
+
+Barry Dorrans
+
+Join us for a behind-the-scenes look at key .NET security cases investigated by the Microsoft Security Response Center (MSRC) over the past year. We'll unpack the root causes—from subtle coding pitfalls to systemic design oversights - and highlight recurring patterns that developers can proactively detect in their own applications. Whether you're building APIs, libraries, or cloud-native services, this session will sharpen your security intuition and equip you with actionable strategies to spot trouble before it ships.
+
+November 13
+2:30 AM - 3:00 AM GMT+3:30
+
+What's New in NuGet
+
+Sean Iyer
+
+NuGet continues to evolve with features that improve security, productivity, and the overall package management experience. This session explores the latest updates to NuGet, including the NuGet Model Context Protocol (MCP) Server that enables AI assistants to help with package management, enhanced NuGet Audit capabilities for identifying vulnerable dependencies, Trusted Publishing for secure package distribution, and improvements to package discovery and dependency management. Learn how these features help you work more efficiently with NuGet packages while maintaining secure and reliable dependencies. Discover what's new in the package manager that powers the .NET ecosystem.
+
+November 13
+3:00 AM - 3:30 AM GMT+3:30
+
+What's New in Containers for .NET 10
+
+Chet Husk, Richard Lander
+
+.NET 10 brings significant improvements to containerized applications, making it easier than ever to build, optimize, and deploy .NET apps in containers. This session explores the latest container features including enhanced image sizes, improved startup performance, better debugging experiences, and new capabilities for container-aware applications. Learn about optimizations for both Linux and Windows containers, new SDK features that streamline container workflows, and best practices for running .NET applications in Kubernetes and other container orchestrators. Whether you're deploying to Azure Container Apps, AWS ECS, or on-premises Kubernetes clusters, discover how .NET 10's container enhancements help you build faster, smaller, and more efficient containerized applications.
+
+November 13
+3:30 AM - 4:00 AM GMT+3:30
+
+AI-Powered Testing in Visual Studio
+
+McKenna Barlow
+
+Artificial intelligence is transforming how we approach testing and quality assurance. This session explores new AI-powered testing capabilities in Visual Studio that help you write better tests, identify edge cases, generate test data, and improve test coverage. Learn how AI assistance can suggest test cases based on your code, help with test maintenance as code evolves, and identify potential bugs before they reach production. Discover how these intelligent features integrate into your testing workflow, making it easier to build high-quality software with comprehensive test coverage. See how AI is making testing faster, smarter, and more effective.
+
+Community Day
+November 13
+4:30 PM - 5:00 PM GMT+3:30
+
+Lessons learned: From Newtonsoft.Json to System.Text.Json in Large Codebases
+
+Tomas Herceg
+
+In this session, I'll discuss something that may seem completely trivial - replacing a JSON parser in a large codebase. A year ago, we decided to switch from Newtonsoft.Json to System.Text.Json in an open-source framework. Because we had a lot of custom converters, used advanced concepts such as JSON patching, encrypting parts of the object tree, and relied on several unique features of Newtonsoft.Json, it has become a long and complex journey. I'll discuss the differences between the two libraries, what we learned, and how the change improved the framework's performance and memory efficiency.
+
+November 13
+5:00 PM - 5:30 PM GMT+3:30
+
+Migrating from Xamarin.Forms to NET. MAUI: The Hard Parts
+
+Iris Classon
+
+My team recently migrated a large and complex Xamarin.Forms application to .NET MAUI, and the journey was full of surprises, roadblocks, and valuable lessons, especially when it came to the Android migration. In this session I’ll walk through the most difficult parts of the process, from project structure changes to platform-specific challenges, and share the practical solutions that helped us move forward. You’ll leave with clear guidance, real-world insights, and a better understanding of how to make your own Xamarin.Forms to .NET MAUI migration smoother and more predictable.
+
+November 13
+5:30 PM - 6:00 PM GMT+3:30
+
+Be Authentic with Blazor and Microsoft Entra External ID
+
+Stacy Cashmore
+
+Blazor developers love it for its fast web application building, and for building complicated applications in easily manageable modules. Blazor is a little less loved when it comes to authentication though. In this session we hope to change that! Being demo-heavy, we will first set up Microsoft Entra External ID, then we'll implement authentication in a Blazor Web Application using that External ID setup. Allowing external users - whether customers or collaborators - to access our application with RBAC security. By the end of this session, you'll have a template that you can use with your own code - and will have learned some of the traps that I have fallen into!
+
+November 13
+6:00 PM - 6:30 PM GMT+3:30
+
+Retro Meets Modern: Commodore 64 live coding with C# and .NET 9+
+
+Alexandre Mutel
+
+Step into the world where retro computing meets modern .NET! In this session, you'll see how the legendary Commodore 64 can be programmed entirely in C# with .NET 9+, making the 8-bit era feel surprisingly fresh. We'll start with a quick tour of the C64's hardware and assembly language, then explore the open-source .NET libraries that make it possible to target this iconic machine without ever leaving C#. From there, it's all about the live coding: together, we'll build a classic C64 demo effect from scratch, powered by `dotnet watch` for instant feedback in a running C64 emulator. Along the way, you'll get a sneak peek into how advanced C# and .NET features are used under the hood to bridge decades of technology. Whether you're nostalgic for retro hardware or just curious about pushing .NET into unexpected places, this talk will leave you inspired - and maybe a little amazed.
+
+November 13
+6:30 PM - 7:00 PM GMT+3:30
+
+Beyond Monitoring: Observability in .NET with OpenTelemetry
+
+Yulia Samoylova
+
+Ever spent hours chasing down a performance issue with no clear root cause? Without the right visibility, it’s easy to miss what’s really going on beneath the surface. In this session, we’ll unpack why observability is essential for modern .NET applications and what APM (application performance monitoring actually) does to help you stay ahead of issues. You’ll learn how logs, metrics, and traces work together to provide a complete picture of your application’s health and explore different ways to instrument them effectively, from zero-code startup hooks to manual instrumentation. We’ll also look at how OpenTelemetry is shaping the future of observability with its standardised APIs, SDKs and collectors. We will touch on how commercial observability platforms can bring together logs, metric and traces to help teams troubleshoot faster and optimise performance.
+
+November 13
+7:00 PM - 7:30 PM GMT+3:30
+
+Taming Service Dependencies with Aspire
+
+Alex Crome
+
+Tired of wrestling with local development environments? You're not alone. Setting up and maintaining local services—especially a mix of cloud-native and legacy apps—is a common headache for developers. It's a time sink that slows down innovation and productivity. At Trayport, we're facing this exact challenge. Our solution? We're packaging our applications as Aspire integrations. In this talk, we'll walk you through our journey and show you how extending Aspire is transforming our development workflow.
+
+November 13
+7:30 PM - 8:00 PM GMT+3:30
+
+Security-First .NET: How GitHub's Tools Protect Your Open-Source Projects Without Slowing You Down
+
+Chad Bentz
+
+As .NET developers, we often focus on features and functionality while security becomes an afterthought. GitHub offers a powerful suite of free security tools that open source .NET developers can leverage immediately to protect their applications. This session goes beyond theory to show you practical, hands-on techniques for integrating Dependency Graph/Review, Dependabot alerts, CodeQL, and Secret Scanning into your everyday .NET workflow. With GitHub Copilot's AI-powered capabilities, you'll discover how to fix security vulnerabilities faster using contextual remediation suggestions. You'll learn how community-driven security practices can help identify vulnerabilities before they reach production, how to effectively manage dependencies with the latest NuGet improvements, and how to leverage the collective knowledge of the .NET ecosystem to build more secure applications. Whether you're building a small open source library or a complex application with Blazor, MAUI, or ASP.NET Core, you'll walk away with actionable security practices you can implement in your projects today—because secure code is quality code, and the open source community deserves both.
+
+November 13
+8:00 PM - 8:30 PM GMT+3:30
+
+From Frameworks to Friendliness: Building Welcoming Open Source in .NET
+
+Emma Burstow, Lotte Pitcher
+
+When we talk about what makes open source in .NET thrive, we often default to the technical bits - frameworks, tooling, packages. But the real long-term success stories? They’re powered by people. In this session, Lotte and Emma will unpack the ingredients that help .NET projects grow and stay healthy over the years: welcoming communities, docs that don’t leave newcomers scratching their heads, and governance that balances friendliness with structure. We’ll pull from real-world lessons (including a certain CMS that’s been going strong for 20 years) but the takeaways will be practical patterns you can apply to your own .NET projects, no matter their size. Expect stories, laughs, and strategies you’ll actually want to try.
+
+November 13
+8:30 PM - 9:00 PM GMT+3:30
+
+Let's create an MCP Server from our .NET tool - and improve our SQL scripts with Copilot
+
+Erik Ejlskov Jensen
+
+In this session, we will create an MCP Server from my .NET CLI tools "T-SQL Analyzer" using the ModelContextProtocol library and publish it to NuGet for discovery from AI clients like GitHub Copilot. In the course of the session, we will look closer at a host of new .NET 10 SDK features: - MCP Server Tools - AOT compilation for faster launch of the CLI - dnx one-shot execution - CLI introspection
+
+November 13
+9:00 PM - 9:30 PM GMT+3:30
+
+Multicluster Load Balancing with YARP: From K8s to Legacy Containers
+
+Ryan Karg
+
+Learn how we built a production-grade load balancer using YARP to route traffic across multiple Kubernetes clusters and VM-hosted Windows Containers. This session dives into our real-world implementation, covering architecture decisions, routing strategies, and integration challenges. Whether you're scaling on multiple clouds or exposing legacy workloads, this talk will show how YARP can unify your traffic flow.
+
+November 13
+9:30 PM - 10:00 PM GMT+3:30
+
+Uno Platform. Now with AI
+
+Jérôme Laban
+
+With Uno Platform, you build cross-platform .NET apps in record time. We’ve long pushed the limits of productivity—first by delivering pixel-perfect mobile, web, desktop, and embedded apps from a single codebase, then with Hot Design, our next-generation visual designer that supercharges iteration. Come learn how to take this further and generate full-stack apps with AI.
+
+November 13
+10:00 PM - 10:30 PM GMT+3:30
+
+Decision Records: Understanding Why Those Decisions Were Made!
+
+Sarah Dutkiewicz
+
+Ever stared at a complex .NET system and thought, "Wait, why was that decision made?!” We’ve all been there – lost in a maze of logic, struggling to track down the root cause of a problem. Decision Records offer a brilliant way to finally unlock that understanding. They’re like having a detailed, searchable log of every decision in your .NET applications – from ASP.NET Identity’s authentication to .NET Aspire’s service discovery and even Blazor’s dynamic UI. By capturing these decisions, you build more maintainable, auditable, and, frankly, less frustrating systems. Let’s ditch the guesswork and start documenting the why – because truly understanding your code is the key to unlocking its full potential!
+
+November 13
+10:30 PM - 11:00 PM GMT+3:30
+
+TUIs Are Back (Although They Never Left): Creating Modern CLI Apps in .NET.
+
+Andres Pineda
+
+Command lines never truly disappeared, but we must admit that while GUIs took center stage, the usage of command-line tools decreased. Now, in the age of cloud, DevOps, and automation, CLIs are making a powerful comeback. In this session, we’ll explore why command-line tools remain essential, how they’ve evolved, and why .NET is the perfect platform to build modern, cross-platform CLIs. By the end, you will learn about libraries, design patterns, and packaging strategies that can make CLI applications elegant, powerful, and portable.
+
+November 13
+11:00 PM - 11:30 PM GMT+3:30
+
+State of the .NET Foundation and .NET Open Source
+
+Kevin Griffin
+
+We discuss the .NET Foundation's current state, what we'd like to do moving forward, and how the .NET community can get involved. We also highlight some new projects recently added to the Foundation.
+
+November 13
+11:30 PM - 12:00 AM GMT+3:30
+
+Transforming CI Failures into Focused Debugging with Visual Studio Playlists and AI
+
+Benjamin Michaelis
+
+When a CI pipeline fails, developers often waste valuable time sifting through large test suites to identify the tests that need attention. In this session, I’ll introduce a tool I developed that automatically converts .trx test results into Visual Studio .playlist files directly within the CI pipeline. This allows developers to download the .playlist file from the CI pipeline and instantly start debugging locally, running only the tests that failed. A key part of developing this tool involved leveraging AI tools like GitHub Copilot and Microsoft Copilot to accelerate the process. These AI tools helped me quickly understand complex decompiled code, identify key differences between Visual Studio playlist versions, and iterate far faster than I could manually. I’ll demonstrate how AI can assist in the exploration phase, navigate lower-level details, and allow developers to focus on higher-value tasks, such as solving the core problem. By adopting similar AI-assisted workflows, you can speed up your own development, tackle complex problems more efficiently, and boost productivity in your projects.
+
+November 14
+12:00 AM - 12:30 AM GMT+3:30
+
+Clean Architecture with ASP.NET Core 10
+
+Ardalis .
+
+ASP.NET Core provides better support for clean, testable, maintainable architectures than any of its predecessors. Learn the underlying principles that apply to project/solution organization, how best to arrange your projects to support loosely-coupled, maintainable code, and how to refactor existing solutions toward this architecture.
+
+November 14
+12:30 AM - 1:00 AM GMT+3:30
+
+Efficient Onboarding: Accelerating New Engineer Productivity
+
+Russ Harding
+
+Organizations often invest heavily in engineering onboarding—only to lose time with manual setups and senior staff dependencies. In this session, I’ll demonstrate how we automated the entire onboarding process using tools like .NET Aspire, Winget configuration, and Visual Studio settings export/import, reducing new‑hire setup time from days to under an hour
+
+November 14
+1:00 AM - 1:30 AM GMT+3:30
+
+Old API, New Tricks: Add MCP to Existing .NET REST Endpoints
+
+Jonathan "J." Tower
+
+Your existing .NET Web APIs have served you well—but what if they could do more with them in the era of AI? In this session, we’ll explore how to breathe new life into your existing ASP.NET Web API endpoints built with ASP.NET CORE by adding Model Creation Protocol (MCP) capabilities to them. We'll look at how the MCP C# SDK makes it simple to annotate your existing controllers, instantly transforming your REST endpoints into AI-powered services that can empower LLMs and agents. We’ll also compare this approach to a no-code approaches using Azure API Management. Finally we'll look at where both of these approaches fall short and are only a starting point for a good long-term MCP design. You can use then to jump start the process and then follow the path we outline together to evolve your APIs from technical plumbing to intelligent, task-focused tools that solve real problems using AI—all without starting from scratch.
+
+November 14
+1:30 AM - 2:00 AM GMT+3:30
+
+.NET Scores "A Perfect 10"
+
+Shaun Walker
+
+In this session we will demonstrate the successful migration of a large-scale enterprise Blazor application to .NET 10. We will outline the most common approaches for upgrading and highlight the areas where .NET 10 delivers superior performance and capabilities over its predecessors. We will also highlight the integration of powerful new features such as ASP.NET Core Identity Passkeys.
+
+November 14
+2:00 AM - 2:30 AM GMT+3:30
+
+DataMountain: .NET data warehousing that beats C++ performance
+
+Mason Wheeler
+
+Databases and high-end data processing are commonly thought of as the realm of "systems languages" such as C, C++, and Rust. Pansynchro Technologies is looking to change that. Our new data warehouse service, DataMountain, uses the .NET community's intense performance optimizations of recent years to their fullest, producing blazing-fast SQL results that even manage to edge out Clickhouse on their own benchmarks in some cases. This session will go over some of the tricks that went into building this system, and how we used .NET code generation, high-performance code such as Spans and Vectors, and some tricks that just don't exist in systems languages, to build a .NET data warehouse with top-tier performance.
+
+November 14
+2:30 AM - 3:00 AM GMT+3:30
+
+Practical AI Applications for Better a UX
+
+Ed Charbeneau
+
+Let's go beyond the basic AI chat demo and put AI to practical use. In this session you'll learn how Multi-modal Language Models or MLLMs are used to improve the user experience of applications. We'll see how Natural language processing is used to manipulate existing user interfaces to simplify user tasks by making apps more intuitive.
+
+November 14
+3:00 AM - 3:30 AM GMT+3:30
+
+Ship Faster with .NET MAUI: Real-World Pitfalls and How to Nuke Them
+
+Paul Usher
+
+Building mobile apps with .NET MAUI feels great—until production hits back. iOS archiving errors, Android signing failures, memory-hungry image pipelines, SQLite sync headaches, and grids that misbehave when users least expect it. This session is a no-fluff survival guide based on real-world projects. We’ll explore practical fixes for packaging woes, resilient offline-first patterns, image/PDF handling that won’t OOM, and 3rd party control quirks. Along the way, we’ll highlight diagnostics and telemetry setups that transform “works on my machine” into “works on customer devices”—without midnight patch scrambles. Live demos of flaky-network handling, PDF/image export, and packaging fixes you can take back to your own pipeline.
+
+November 14
+3:30 AM - 4:00 AM GMT+3:30
+
+Godot for C# Developers: From Console Apps to Playable Prototypes
+
+Stacey Haffner, Andy De George
+
+New to Godot but fluent in C#? This session will get you from zero to a working prototype. Along the way you’ll see how AI can speed up learning, development, and debugging. We’ll also explore how to guide GitHub Copilot with instructions and a project plan, giving you the fundamentals to use it effectively as your learning and coding companion.
+
+November 14
+4:00 AM - 4:30 AM GMT+3:30
+
+Community Toolkit Roundup
+
+Michael Hawker, Gerald Versluis, Sergio Pedri
+
+Join a lively discussion with maintainers of the Community Toolkits: the .NET Community Toolkit, the MAUI Community Toolkit, and the Windows Community Toolkit. Learn about these open-source projects which aim to provide useful and high-quality components, controls, and utilities for .NET developers. Discover how you can get involved, contribute, and benefit from these amazing toolkits that cover various .NET platforms and technologies. Whether you are developing desktop, mobile, web, or cross-platform applications, there is a Toolkit for you!
+
+November 14
+4:30 AM - 5:00 AM GMT+3:30
+
+C# Features you need: Habits you want
+
+Bill Wagner
+
+Take a tour of many recent improvements in C# that make coding more fun and productive. These features often come in under the radar because they seem small in scope. But they often become the most loved features because developers use them everyday. Maybe this is a refresher and a reminder to change your habits. Or maybe if you've moved away from C# and are returning this can open your eyes to many new features that make C# development more fun. We'll look at features from C# 12 through C# 14, spanning two LTS releases. You'll leave ready to change your C# development for the better.
+
+November 14
+5:30 AM - 6:00 AM GMT+3:30
+
+Overcoming the limitations when using AI
+
+Michael Washington
+
+Artificial intelligence is inherently imprecise, which poses significant challenges when integrating it into real-world applications. In this session, we’ll explore practical strategies and proven techniques used in actual implementations to mitigate these challenges and harness AI effectively. The following open-source applications are covered: AIStoryBuildeers.com and BlazorData.net.
+
+November 14
+6:00 AM - 6:30 AM GMT+3:30
+
+If .NET brewed beer…
+
+Shaun Lawrence
+
+It would be fast, efficient and run directly on the low powered devices controlling it! Come along and learn all about my journey into brewing beer, automating the process through the use of a Raspberry Pi/Meadow board. We will cover how to use common techniques to build on a low powered device and targeted towards machine control. This session is great for anyone looking to get into developing for IoT devices using .NET - a framework that we are known for and love. I love a good IPA, what do you like?
+
+November 14
+6:30 AM - 7:00 AM GMT+3:30
+
+Taking .NET out of .NET Aspire - working with non-.NET applications
+
+David Gardiner
+
+.NET Aspire is a great way to create observable, production-ready distributed apps by defining a code-based model of services, resources, and connections. It simplifies local development and debugging, as well as deployment. But what if you're not using .NET at all, or you have a mix of .NET and other languages like Python and Node-based web apps? This talk explores how .NET Aspire can work with applications and services not written in .NET. Learn how to add .NET Aspire to your applications regardless of the programming model used, and benefit from the features (including the real-time developer dashboard) that .NET Aspire offers.
+
+November 14
+7:00 AM - 7:30 AM GMT+3:30
+
+.NET Framework 4.8 to .NET 9, Step by Step
+
+Michael Christiansen
+
+How we took our 12-year-old .NET Framework asp.net and windows service application and upgraded it to .NET 9 without rewriting it and continuing to ship during the transition: 1. modernizing .NET Framework pre-upgrade using .NET standard compatible Microsoft.Extensions.* packages 2. converting supporting libraries to .NET standard and creating a consolidated .NET Framework-only library 3. Authoring any new projects in .NET 8+ once dependencies are standard 4. Handling some edge cases using dual compilation for .net framework and .net standard 2.1. 5. ASP.NET mvc and webapi admin site conversion (with AI assistance) 6. Final conversion of remaining projects.
+
+November 14
+7:30 AM - 8:00 AM GMT+3:30
+
+From Architecture to Docs: .NET Aspire Documented with Copilot
+
+Jorge Fernández Sánchez, David Oliva
+
+Tired of your architecture diagrams becoming outdated before they even reach production? In this hands-on session (Level 300), you’ll learn how to turn .NET Aspire AppHost definitions into living documentation —Mermaid diagrams, markdown, and Aspire Dashboard screenshots— powered by GitHub Copilot Chat and the Copilot Coding Agent. Ask Copilot for an ASCII diagram of the services and resources declared in Aspire. Automatically transform it into Mermaid and preview it in VS Code via mcp-mermaid. Delegate to the Coding Agent the generation of a pull request that updates documentation whenever the architecture changes. Enrich the markdown with Aspire Dashboard screenshots using Playwright MCP, creating an always up-to-date “source of truth” for your team. By the end, you’ll know how to integrate this workflow into your CI/CD pipeline, reduce documentation debt, and deliver a reproducible blueprint for any cloud-native solution built with .NET Aspire. Bring your laptop with .NET 10 Preview installed and get ready to be amazed by Copilot’s speed!
+
+November 14
+8:00 AM - 8:30 AM GMT+3:30
+
+High-Performance Terrain Simulations in .NET
+
+Dax Pandhi
+
+Abstract: Gaea’s terrain engine powers some of the biggest productions in the world — from Star Wars, Star Trek, Alan Wake 2, Death Stranding to NASA's own simulations. Behind the beautiful, realistic terrain simulations is an engine that pushes .NET far beyond typical application workloads to handle billions of independent computations per build. This session focuses on the architectural and low-level techniques that make this possible: - Designing modular terrain processing engine. - Implementing SPMD (Single Program, Multiple Data) execution in managed .NET code for massive-scale simulation. - Building a custom memory management system ("Spawning Pool") for predictable, high-throughput processing. - Creating unified model for coding complex tasks with a simple syntax in SPMD. The talk will cover lessons learned, pitfalls of high-performance managed code, and patterns you can apply when building compute-intensive systems in .NET. Level: 300 (Advanced)
+
+November 14
+8:30 AM - 9:00 AM GMT+3:30
+
+Windows 365 Meets .NET Aspire - Supercharging Multi-Repo Microservice Productivity
+
+Chuanbo Zhang, Eric Guo
+
+This session explains how Windows 365 global engineering teams utilizes .NET Aspire to support multi-repository microservices development with F5 experience (Clone, Build, and F5 Innovate). It introduces the AddMicroservice extension, which helps onboard and integrate microservices across different repositories with .NET Aspire, and the RunAsEmulator extension for loading dependencies from microservice containers or emulators. The built-in seed data feature facilitates local testing. Additionally, the use of HTTP file template-based microservice emulators is demonstrated, allowing teams to simulate various dependencies and scenarios. An end-to-end demonstration is provided to illustrate how Windows 365 can assist engineering teams with productivity and collaboration in cloud-native, multi-repository microservice world.
+
+November 14
+9:00 AM - 9:30 AM GMT+3:30
+
+Smatterings of F#
+
+Matthew Watt
+
+You're a C# developer and you love it. .NET is your bread and butter, and rightly so - C# and .NET are awesome! But did you know that .NET is more than just C# (and VB 🙂)? Have you heard of this little programming language called F#? Maybe you have, and you love it as much as I do. Maybe you have, but you've got C#, so why bother? Maybe you have, and maybe you really like the ideas, but you work in a "C# shop" and your team members just can't be convinced. Maybe you've never heard of F# at all! Whoever you are, I welcome you! In this talk, I hope to address everyone I have described. If you love F# as much as I do, you'll be inspired to keep finding ways to scratch that F# itch, however you can! If you are a C# fanatic, you'll see that different ways of thinking about programming can help you be better at the things you're already doing...and that there are useful tools outside of our beloved C# 🙂 If you're a secret F# admirer in a world of C# developers, you'll discover that to use F# effectively, you don't need the title of "F# developer" at work, nor do you need to convince everyone on your team that they should convert all their C# to F#. F# lawyers - you can rest! In this talk, we're going to look at the ways I use smatterings of F# here and there to scratch my itch - and give back to the community! - We'll look at my blog and how, though it is primarily Astro, I used F# to build a basic commenting system, as well as some other useful frontend components - all without having to completely convert everything! - We'll look at some of my open source contributions, which are proof that you don't need to do anything groundbreaking to get started. Bored? See some missing functionality or documentation in a library you use a lot? Get forking! I hope to see you there!
+
+November 14
+9:30 AM - 10:00 AM GMT+3:30
+
+Carbon Aware Computing - Using .NET Open Source libraries for more sustainable applications
+
+Aydin Mir Mohammadi
+
+Modern software development must become climate-friendly and resource-saving. However, we don't have to reinvent the wheel, as Green Software Development design patterns already exist. After the “usual suspects” such as maximizing server utilization, minimizing memory and processor utilization and dynamic scaling, a paradigm shift is needed. Similar to the energy transition, the use of resources must be aligned with the supply of resources. This is the principle of carbon aware computing. One option is to shift plannable loads (tasks, jobs, batch processes) to times with a high proportion of renewable energy in the power grid (time-shifting). A different strategy is required for on-demand loads and scaling. Here, the application must adapt the supply and its functionality to the available resources. This process is called demand shaping. This talk will show how these patterns can be implemented with Open Source .NET Libraries - on prem, in the cloud with Azure PaaS or in Kubernetes and what options an application has to “shed” the load. We see CarbonAware SDK with life Open Data, Job-Sheduling with Hangfire, Powershell Commandlets for automation, Kubernetes Exporter for KEDA & Prometheus. All aspects will be addressed: How does scaling work, how can you limit it dynamically based on the CO2 intensity of the power grid and where do you get the prediction data from. And the whole thing with lots of live demos.
+
+November 14
+10:00 AM - 10:30 AM GMT+3:30
+
+Building Rock-Solid Avalonia Apps: A Guide to Headless Testing with AI Assistance
+
+Bin Dong
+
+Application quality is non-negotiable, but UI testing can be a bottleneck. Let's fix that! This session is your guide to implementing a professional testing strategy for Avalonia application. We'll dive deep into headless testing, the technique that allows you to execute complex UI interaction tests at incredible speed, without a display server. To take it to the next level, we'll incorporate GitHub Copilot. We'll show live examples of how GitHub Copilot acts as your AI pair programmer, helping you write tests faster, overcome stumping challenges, and maintain your test suite with ease.
+
+November 14
+10:30 AM - 11:00 AM GMT+3:30
+
+Architecting an AI-Powered Sales Dashboard with .NET MAUI and Azure OpenAI
+
+Shriram Sankaran
+
+This session showcases my journey of building an AI-powered sales dashboard using .NET MAUI and Azure OpenAI’s GPT-5 models, delivering a cross-platform business analytics app for Windows, Android, iOS, and macOS. Leveraging Syncfusion’s .NET MAUI controls, the dashboard visualizes revenue trends, product sales, regional performance, and key metrics like profit and growth through interactive charts, gauges, and maps. GPT-5 powers daily sales predictions with confidence intervals and anomaly flags, while its NLP capabilities enable a smart assistant for natural language queries. I’ll share my war story of overcoming challenges like ensuring cross-platform UI performance, and implementing MVVM architecture for reactive data binding in .NET 9. The live demo will highlight real-time visualizations, AI-driven forecasts, and conversational insights via the AI assistant, showcasing best practices for scalable, intelligent .NET MAUI apps. Attendees will learn how to architect AI-driven dashboards, integrate GPT-5 for predictive analytics, and create responsive UIs, making this ideal for developers building business solutions.
+
+November 14
+11:00 AM - 11:30 AM GMT+3:30
+
+Rolling Your Own SSO: A Practical Guide with OpenIddict
+
+Dustin Kingen
+
+Do you manage multiple apps that each duplicate authentication logic and user tables? Rely on an external provider like ADFS that isn’t always reliable? Want the benefits of Entra ID or similar, but can’t use them due to project constraints? In this session, I’ll show how I solved these challenges by building a centralized SSO server with OpenIddict. By separating authentication into its own application, we unified logins, eliminated session fragmentation, and simplified developer workflows. You’ll learn when rolling your own SSO is the right choice, how to design it with OpenIddict, and best practices for integrating multiple apps. Attendees will leave with a practical blueprint for modern, maintainable authentication.
+
+November 14
+11:30 AM - 12:00 PM GMT+3:30
+
+GitHub Actions DevOps Pipelines as Code using C# and Cake SDK
+
+Mattias Karlsson
+
+Build and release configuration as code has become the de facto approach for most continuous build and release solutions today. Most commonly, this is done through a custom task-based, debug-resistant domain-specific language using YAML or JSON files. But what if, instead of using a markup language, you could use a proper programming language with well-defined and documented control structures, flow statements like for, while, and do, and the full expressive power of C#? In this session, we will go step-by-step through how you can orchestrate your GitHub Actions build and release pipelines using C#, powered by the Cake SDK and the latest features of .NET 10. You will see how to test and debug your pipeline locally without the slow push-and-wait cycle for CI to fail or succeed. Using standard developer tools like VS Code, you can reuse the language skills your team already has, reducing friction and unnecessary context switching.
+
+November 14
+12:00 PM - 12:30 PM GMT+3:30
+
+Modernizing a 17th Century Italian-English Dictionary
+
+Wayne Sebbens
+
+John Florio's Italian-English Dictionary was first published in the early 1600s, and while it's a popular resource for translators of Renaissance-period texts it's not kept up with the times! Join me on this journey to bring it into the 21st Century with .NET, a custom vector embeddings model trained with ML.NET, CosmosDb for storage, and Aspire to glue it all together.
+
+November 14
+12:30 PM - 1:00 PM GMT+3:30
+
+Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core
+
+Maarten Balliauw
+
+Passkeys, using the WebAuthn protocol, replace passwords with stronger, simpler, and phishing-resistant authentication using your device's built-in security or a dedicated hardware key. This session provides a practical introduction to passkey authentication and its implementation in ASP.NET Core applications. We'll explore the fundamentals of passkeys and the underlying public key cryptography. Then, we'll demonstrate how to integrate passkey authentication into your projects, supporting OS management, password managers (like 1Password), and hardware security keys (like a Yubikey). Join this talk if you want to get a thorough understanding of passkeys and the skills to integrate them into your applications.
+
+November 14
+1:00 PM - 1:30 PM GMT+3:30
+
+One Question, One Answer: Designing Seamless AI Agents with C#
+
+Mark Miller
+
+Most AI assistants feel like a chat — you ask, they answer, you refine, they try again. It can work, but the UX burden falls squarely on the user. What if AI agents could deliver the right change the first time—instantly, seamlessly, and without breaking flow? That’s the promise of a “single-question, single-response” model: AI as a trusted partner who just gets it done quickly and correctly. In this session, Mark Miller (Chief Architect at DevExpress and creator of CodeRush & AiGen) shares lessons from building real-world AI agents in C#. You’ll learn: * Why the one-question/one-answer + delta approach outperforms chat-based experiences. * How to feed AI the right context instantly for faster, more accurate results. * UX and design principles that apply to any AI-powered app—from coding assistants to productivity and enterprise tools. * Proven patterns for creating AI experiences that users actually love to use. Whether you’re curious about the future of pair programming or embedding AI into your own .NET apps, this talk will give you practical strategies to make AI agents more helpful, natural, and delightful.
+
+November 14
+1:30 PM - 2:00 PM GMT+3:30
+
+Rx.NET status and plans
+
+Ian Griffiths
+
+Rx.NET sees millions of downloads every month. Learn what work is in progress, and what our plans are for future versions.
+
+November 14
+2:00 PM - 2:30 PM GMT+3:30
+
+Nullable Reference Types: It's Actually About Non-Nullable Reference Types
+
+Shawn Wildermuth
+
+Isn't `null` the bane of many of a developer's life? Working with nullable data has always required some amount of understanding this third state of data. Recently, Microsoft introduced Nullable Reference Types to .NET developers and for many a long-term C# developer, the change was daunting. In recent iterations, Nullable Reference Types are now the default for new projects. But once you understand the reason to use Nullability, you'll see how it can simply your code and have to use less safeguards around your code. Instead of turning it off, let me show you why Nullable Reference Types exist and how they could make your code better.
